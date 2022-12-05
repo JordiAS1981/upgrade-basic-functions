@@ -8,3 +8,4 @@ function sum(numberOne, numberTwo) {
     }
     return masAlto;
 }
+console.log('el numero más alto es'+ masAlto)
